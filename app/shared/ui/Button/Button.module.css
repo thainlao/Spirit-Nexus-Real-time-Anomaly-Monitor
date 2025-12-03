@@ -1,0 +1,10 @@
+.btn {
+  background: #0ea5a5;
+  color: #061019;
+  padding: 0.45rem 0.7rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+.btn:disabled { opacity: .5; cursor: not-allowed; }

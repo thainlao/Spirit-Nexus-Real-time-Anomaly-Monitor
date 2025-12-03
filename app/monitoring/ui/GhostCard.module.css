@@ -1,0 +1,21 @@
+.card {
+  background: rgba(255,255,255,0.03);
+  padding: 1rem;
+  border-radius: 10px;
+  width: 220px;
+  box-shadow: 0 4px 12px rgba(2,6,23,0.6);
+}
+.header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.name { margin:0; font-size:1.05rem; }
+.badge {
+  padding: 0.2rem 0.45rem;
+  border-radius:6px;
+  color:#071022;
+  font-weight:700;
+}
+.body { margin-top:0.6rem; font-size:0.9rem; line-height:1.4; }
+.actions { margin-top:0.8rem; }

@@ -1,0 +1,12 @@
+.container {
+  padding: 2rem;
+}
+.title {
+  margin: 0 0 1rem 0;
+  font-size: 1.6rem;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
